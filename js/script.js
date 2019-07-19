@@ -66,6 +66,8 @@ function printQuote() {
 }
 
 //Randomly change the background color
+//Code obtained without modification from http://www.w3resource.com/javascript-exercises/javascript-math-exercise-40.php
+//Available under public license ==> http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
 
 function random_bg_color() {
   let x = Math.floor(Math.random() * 256);
