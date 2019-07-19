@@ -103,4 +103,12 @@ body {
   .source {
     font-size: 1.25rem;
   }
+
+  a {
+    color: white;
+  }
+
+  a:hover {
+    background-color: black;
+  }
 }
